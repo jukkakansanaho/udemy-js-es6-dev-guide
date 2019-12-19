@@ -18,8 +18,14 @@ This is a study project for Udemy ES6 Javascript - The Complete Developer's Guid
 
 ### Technologies used in the course
 
-- Frontend: Javascript
+- Frontend/Backend: Javascript
 
 ## Preparation
 
-- No prerequisites
+- [Node.js](https://nodejs.org/) installed locally for running code on command line.
+
+## HOWTO run the code
+
+- Option-1: use Stephen Grider's RallyCoding editor: https://stephengrider.github.io/JSPlaygrounds/
+- Option-2: run the code by typing: `node <SCRIPT-NAME.js>`
+  - This console.logs the results defined in the code
